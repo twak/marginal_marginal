@@ -3,7 +3,7 @@
 This folder contains the dataset and eval code for Sea Ice feature importance and model comparison.
 
 ## Contents
-- `dataset/`: Dataset files (`.npy` with warped and unwarped featuers, `.json` with classifications, `mean_std.json`).
+- `dataset/`: Dataset files (`.npy` with warped and unwarped pixel featuers, `.json` with classifications, `mean_std.json`).
 - `dataset.py`: Standalone dataset loader that normalizes channels and provides `load_data`.
 - `evaluate.py`: Demo evalution script.
 
