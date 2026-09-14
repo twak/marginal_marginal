@@ -1,4 +1,4 @@
-# Warping Earth Observations for better ice labelling in the Marginal Marginal Ice Zone
+# Warping Earth Observations for better ice labelling in the Marginal Marginal Ice Zone [PDF](https://arxiv.org/html/2608.11883v1)
 
 This folder contains the dataset and eval code for Sea Ice feature importance and model comparison.
 
